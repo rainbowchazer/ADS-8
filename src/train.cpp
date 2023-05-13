@@ -45,4 +45,5 @@ int Train::getLength() {
 			count = 1;
 		}
 	}
+	return -1;
 }
